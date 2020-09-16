@@ -3,7 +3,7 @@ let db;
 const request= indexedDB.open("budget", 1);
 
 request.onerror = function(event) {
-  console.log(event.target.errorCode);
+  console.log("There was an error: " + event.target.errorCode);
 };
 
 request.onupgradeneeded = function (event) {
