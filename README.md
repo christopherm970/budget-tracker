@@ -11,7 +11,7 @@
   # Project Description
   Application that tracks a user spending on and offline.
   # Installation
-  NPM Install
+  NPM Install. To view deployed version you can click the link [Click Here] (https://secure-savannah-83455.herokuapp.com/)
   # Usage
   
   # Tests
